@@ -2,6 +2,7 @@
   PROJECT SETUP
 </h1>
 <p align='center'>
+Technologies Used : 
 PostgresSQL, ExpressJs, ReactJs, NodeJs
 </p>
 
