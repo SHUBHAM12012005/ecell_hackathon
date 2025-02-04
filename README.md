@@ -10,7 +10,7 @@ PostgresSQL, ExpressJs, ReactJs, NodeJs
 Cloning the repository
 
 ```bash
-$ git clone [https://github.com/SHUBHAM12012005/ecell_hackathon.git](https://github.com/SHUBHAM12012005/ecell_hackathon.git)
+$ git clone https://github.com/SHUBHAM12012005/ecell_hackathon.git
 
 $ cd ecell_hackathon
 ```
